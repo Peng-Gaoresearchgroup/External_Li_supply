@@ -1,0 +1,4 @@
+# Type 1 of redox-active center containing a series of electrochemically active molecules
+![My Local Image](../Images/Type01.png 'Type 1 of redox-active center containing a series of electrochemically active')
+
+A redox-active center type containing lithium thiolate (1), lithium 2-oxy-thiolate (2), lithium 2-thio-thiolate (3), lithium 2-amino-thiolate (4), lithium allylthiolate (5), lithium propargylthiolate (6), lithium 3-oxo-thiolate (7), lithium 3-thioxo-thiolate (8), 3-oxy-3-oxo-thiolate (9), and lithium 3-amino-3-oxo-thiolate (10). They are grouped into the same category because these functional groups undergo the same reaction route to release a free Li ion and a sulfur radical.

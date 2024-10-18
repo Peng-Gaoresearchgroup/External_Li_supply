@@ -1,0 +1,4 @@
+# Type 3 of redox-active center containing a series of electrochemically active molecules
+![My Local Image](../Images/Type03.png 'Type 3 of redox-active center containing a series of electrochemically active')
+
+A redox-active center type containing lithium sulfonate (1), lithium vinylsulfonate (2), lithium  allylsulfonate (3), lithium ethynylsulfonate (4), lithium 3-oxo-sulfonate (5), lithium 2-oxy-sulfonate (6), lithium 2-amino-sulfonate (7), lithium 2-thio-sulfonate (8), lithium sulfate (9), and lithium propargylsulfonate (10). They are grouped into the same category because these functional groups undergo the same reaction route to release a free Li ion, a SO3 gas molecule and a radical.

@@ -1,0 +1,4 @@
+# Type 11 of redox-active center containing a series of electrochemically active molecules
+![My Local Image](../Images/Type11.png 'Type 11 of redox-active center containing a series of electrochemically active')
+
+A redox-active center type containing trilithium silanetriol (1), trilithium vinylsilanetriol (2), trilithium allylsilanetriol (3), trilithium 2-oxy-silanetriol (4), trilithium 2-amino-silanetriol (5), trilithium 2-thio-silanetriol (6), trilithium 2-oxy-4-oxo-silanetriol (7), and trilithium acylsilanetriol (8). They are grouped into the same category because these functional groups undergo the same reaction route to release a free Li ion and a radical.

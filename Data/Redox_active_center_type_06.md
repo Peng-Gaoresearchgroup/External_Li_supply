@@ -1,0 +1,4 @@
+# Type 6 of redox-active center containing a series of electrochemically active molecules
+![My Local Image](../Images/Type06.png 'Type 6 of redox-active center containing a series of electrochemically active')
+
+A redox-active center type containing dilithium hydrazine (1), dilithium diacylhydrazine (2), dilithium acylhydrazine (3), dilithium diathiohydrazine (4), dilithium thiohydrazine (5), dilithium iminomethylhydrazine (6), dilithium oxy-acyl-iminomethylhydrazine (7), dilithium oxy-acyl-acylhydrazine (8), and dilithium oxy-acyl-thiohydrazine (9). They are grouped into the same category because these functional groups undergo the same reaction route to release two free Li ion and a nitrogen nitrogen radical.

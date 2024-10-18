@@ -1,0 +1,4 @@
+# Type 4 of redox-active center containing a series of electrochemically active molecules
+![My Local Image](../Images/Type04.png 'Type 4 of redox-active center containing a series of electrochemically active')
+
+A redox-active center type containing lithium amide (1), lithium acidamide (2), lithium acidimide (3), lithium sulfonamide (4), lithium sulfonimide (5), lithium acyl-sulfonimide (6), lithium sulfamate (7), lithium sulfimate (8), lithium thioamide (9), and lithium acyl-thioimide (10). They are grouped into the same category because these functional groups undergo the same reaction route to release a free Li ion and a nitrogen radical.

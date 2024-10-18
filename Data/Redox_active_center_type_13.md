@@ -1,0 +1,4 @@
+# Type 13 of redox-active center containing a series of electrochemically active molecules
+![My Local Image](../Images/Type13.png 'Type 13 of redox-active center containing a series of electrochemically active')
+
+A redox-active center type containing dilithium boronate (1), dilithium vinylboronate (2), dilithium allylboronate (3), dilithium ethynylboronate (4), dilithium 2-amino-boronate (5), dilithium 2-oxy-boronate (6), dilithium 2-thio-boronate (7), dilithium 3-oxo-boronate (8), dilithium 3-oxy-3-oxo-boronate (9), and dilithium 3-amino-3-oxo-boronate (10). They are grouped into the same category because these functional groups undergo the same reaction route to release a free Li ion and a radical.

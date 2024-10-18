@@ -1,0 +1,4 @@
+# Type 9 of redox-active center containing a series of electrochemically active molecules
+![My Local Image](../Images/Type09.png 'Type 9 of redox-active center containing a series of electrochemically active')
+
+A redox-active center type containing lithium oxalate (1), lithium allyloxalate (2), lithium ethynyloxalate (3), lithium propargyloxalate (4), lithium 2-oxy-oxalate (5), lithium 4-oxo-2-oxyoxalate (6), lithium oxalate ammonia (7), and lithium vinyloxalate (8). They are grouped into the same category because these functional groups undergo the same reaction route to release a free Li ion, two CO2 gas molecules and a radical.

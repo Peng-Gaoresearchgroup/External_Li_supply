@@ -1,0 +1,4 @@
+# Type 20 of redox-active center containing a series of electrochemically active molecules
+![My Local Image](../Images/Type20.png 'Type 20 of redox-active center containing a series of electrochemically active')
+
+A redox-active center type containing dilithium hydroxylamine (1), dilithium vinylhydroxylamine (2), dilithium allylhydroxylamine (3), dilithium 2-oxy-hydroxylamine (4), dilithium acylhydroxylamine (5), dilithium 2-oxy-acylhydroxylamine (6), dilithium 3-oxo-acylhydroxylamine (7), dilithium amidinohydroxylamide (8), and dilithium aminoacylhydroxylamine (9). They are grouped into the same category because these functional groups undergo the same reaction route to release two free Li ion and a nitrogen oxygen radical.

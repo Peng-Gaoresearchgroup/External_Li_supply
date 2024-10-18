@@ -1,0 +1,4 @@
+# Type 5 of redox-active center containing a series of electrochemically active molecules
+![My Local Image](../Images/Type05.png 'Type 5 of redox-active center containing a series of electrochemically active')
+
+A redox-active center type containing dilithium dihydroxylammonium (1), dilithium vinylenedihydroxyammonium (2), dilithium 3-oxo-dihydroxylammonium (3), dilithium 3-oxy-3-oxo-dihydroxylammonium (4), and dilithium allyldihydroxyammonium (5). They are grouped into the same category because these functional groups undergo the same reaction route to release two free Li ion and a nitrogen oxide radical.

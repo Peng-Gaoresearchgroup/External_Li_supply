@@ -1,0 +1,4 @@
+# Type 10 of redox-active center containing a series of electrochemically active molecules
+![My Local Image](../Images/Type10.png 'Type 10 of redox-active center containing a series of electrochemically active')
+
+A redox-active center type containing dilithium phosphonicacid (1), dilithium 2-amino-phosphonicacid (2), dilithium 2-oxy-phosphonicacid (3), dilithium acyl phosphonicacid (4), dilithium 2-oxy-acyl-phosphonicacid (5), dilithium 3-oxo-phosphonicacid (6), dilithium 3-oxy-3-oxo-phosphonicacid (7), dilithium vinylphosphonicacid (8), and dilithium allylphosphonicacid (9). They are grouped into the same category because these functional groups undergo the same reaction route to release a free Li ion and a radical.

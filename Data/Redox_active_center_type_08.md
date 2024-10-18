@@ -1,0 +1,4 @@
+# Type 8 of redox-active center containing a series of electrochemically active molecules
+![My Local Image](../Images/Type08.png 'Type 8 of redox-active center containing a series of electrochemically active')
+
+A redox-active center type containing lithium carboxylate (1), lithium 2-oxoacetate (2), lithium 2-thioxoacetate (3), lithium 2-oxy-acetate (4), lithium 2thio-acetate (5), lithium 3-oxopropionate (6), lithium 3-amino-3-oxopropionate (7), lithium oxamate (8), lithium aminoacetate (9), lithium acrylate (10), and lithium propiolate (11). They are grouped into the same category because these functional groups undergo the same reaction route to release a free Li ion, a CO2 gas molecule and a radical.
