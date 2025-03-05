@@ -1,6 +1,6 @@
 # External Li Supply
 ### Introduction
-Scripts from the manuscript S. Chen, et al. External Li supply reshapes Li deficiency and lifetime limit of batteries.
+Scripts from the manuscript S. Chen, et al. External Li supply reshapes Li deficiency and lifetime limit of batteries.(https://doi.org/10.1038/s41586-024-08465-y)
 
 ### Contents
 - Code folder to reproduce the data, including a source code and a PDF file for presentation.
